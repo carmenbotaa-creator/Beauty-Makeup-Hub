@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Studio Glow Up",
+    "type": "makeup",
+    "location": "Strada Rozelor nr. 5",
+    "program": "09:00 - 18:00",
+    "tags": ["machiaj", "evenimente", "glamour"]
+  },
+  {
+    "name": "Elegance Spa",
+    "type": "skincare",
+    "location": "Bulevardul Central 10",
+    "program": "10:00 - 20:00",
+    "tags": ["tratament", "relaxare", "ten"]
+  },
+  {
+    "name": "Nail Art Boutique",
+    "type": "nails",
+    "location": "Mall Plaza, Etaj 1",
+    "program": "10:00 - 22:00",
+    "tags": ["manichiura", "gel", "design"]
+  }
+]
